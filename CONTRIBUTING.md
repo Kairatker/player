@@ -1,1 +1,1 @@
-Now will check git commit -a command. Some change
+test
